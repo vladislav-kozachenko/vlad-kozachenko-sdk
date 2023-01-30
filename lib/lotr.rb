@@ -1,5 +1,5 @@
-require './movie_request'
-require './quote_request'
+require 'movie_request'
+require 'quote_request'
 require 'json'
 
 class LOTR

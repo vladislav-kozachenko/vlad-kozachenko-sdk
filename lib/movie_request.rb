@@ -1,4 +1,4 @@
-require './base_request'
+require 'base_request'
 require 'net/http'
 
 class MovieRequest < BaseRequest
