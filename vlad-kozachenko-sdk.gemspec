@@ -8,4 +8,5 @@ Gem::Specification.new do |s|
   s.summary     = "SDK for LOTR API"
 
   s.require_paths = ['lib']
+  s.files       = ["lib/lotr.rb"]
 end
